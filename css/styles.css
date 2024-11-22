@@ -1,16 +1,14 @@
-body
-{
+body {
   background-color: darkgrey;
   text-transform: uppercase;
   margin: 0;
 }
 
-p
-{
+p {
   text-align: center;
 }
 
-.contenitore{
+.contenitore {
     text-align: center;
     border: 3px solid black;
     width: 90%;
@@ -19,8 +17,7 @@ p
     padding: 10px;
     }
 
-table , td
-{
+table , td {
     width: 50%;
     margin-left: auto;
     margin-right: auto;
@@ -32,91 +29,73 @@ table , td
 }
 
 
-a
-{
+a {
   text-decoration: none;
   color: black;
 }
-.sis
-
-{
+.sis {
   
   background-color: limegreen;
 
 }
 
-.sisl
-
-{
+.sisl {
   
   background-color: lime;
 
 }
 
-.mat
-
-{
+.mat {
   
   background-color: dodgerblue;
 
 }
 
-.cmat
-{
+.cmat {
 
   background-color: deepskyblue;
 
 }
 
-.ing
-{
+.ing {
   background-color: yellow;
 }
 
-.tps
-{
+.tps {
   background-color: darkorange;
   padding: 20px;
 }
 
-.tpsl
-
-{
+.tpsl {
   background-color: chocolate;
 }
 
-.inf
-{
+.inf {
   background-color: mediumorchid;
 }
 
-.infl
-{
+.infl {
   background-color: mediumpurple;
 }
 
-.tel
-{
+.tel {
   background-color: #ffa8ab;
 }
 
-.tell
-{
+.tell {
   background-color: #ffc2c4;
 }
 
 
-.gin
-{
+.gin {
   background-color: darkgrey;
 }
 
-.ita
-{
+.ita {
   background-color: firebrick;
 }
-.sto
-{
+
+.sto {
   background-color:coral;
 }
 
